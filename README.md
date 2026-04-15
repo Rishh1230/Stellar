@@ -16,21 +16,21 @@ The system is built with a focus on:
 
 ---
 
-## ⚡ Key Features
+##  Key Features
 
-* 📡 **Real-Time Data Ingestion**
+* **Real-Time Data Ingestion**
   Handles continuous sensor data streams efficiently
 
-* ⚙️ **Scalable Backend APIs**
+*  **Scalable Backend APIs**
   Built using Node.js and Express for high-throughput processing
 
-* 📊 **Time-Series Data Processing**
+*  **Time-Series Data Processing**
   Processes and analyzes streaming data in real time
 
-* 🤖 **Anomaly Detection & Prediction**
+* **Anomaly Detection & Prediction**
   Integrates ML models for pattern recognition and forecasting
 
-* 📈 **Live Monitoring Interface**
+*  **Live Monitoring Interface**
   Frontend dashboard for real-time visualization
 
 ---
